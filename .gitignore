@@ -1,0 +1,13 @@
+.env
+.venv/
+.venv-streamlit/
+.tmp/
+__pycache__/
+*.pyc
+learning_assistant.db
+learning_assistant.db-journal
+db_probe.tmp
+data/*.db
+data/*.db-journal
+emotion_response_examples.csv
+emotion_response_mapping.csv
